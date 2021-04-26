@@ -7,4 +7,5 @@ import { Component, VERSION } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular ' + VERSION.major;
+  slide1:string="img/carousel/slide1.jpeg"
 }
